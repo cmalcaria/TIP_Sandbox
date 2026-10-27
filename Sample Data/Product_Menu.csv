@@ -1,0 +1,19 @@
+country,currency,product_name,category,unit_price_local,fx_rate_to_php
+Philippines,PHP,Americano,Drink,165.00,1
+Philippines,PHP,Butter Croissant,Pastry,110.00,1
+Philippines,PHP,Cafe Latte,Drink,195.00,1
+Philippines,PHP,Chocolate Muffin,Pastry,100.00,1
+Philippines,PHP,Ensaymada,Pastry,120.00,1
+Philippines,PHP,Ube Latte,Drink,210.00,1
+South Korea,KRW,Americano,Drink,7500.00,0.04
+South Korea,KRW,Black Sesame Latte,Drink,9750.00,0.04
+South Korea,KRW,Butter Croissant,Pastry,6750.00,0.04
+South Korea,KRW,Cafe Latte,Drink,9000.00,0.04
+South Korea,KRW,Chocolate Muffin,Pastry,6000.00,0.04
+South Korea,KRW,Sweet Potato Bread,Pastry,7500.00,0.04
+United States,USD,Americano,Drink,10.00,60
+United States,USD,Apple Danish,Pastry,8.00,60
+United States,USD,Butter Croissant,Pastry,7.00,60
+United States,USD,Cafe Latte,Drink,11.00,60
+United States,USD,Chocolate Muffin,Pastry,6.00,60
+United States,USD,Maple Latte,Drink,12.00,60
